@@ -4,7 +4,8 @@
     "server:watch": "nodemon ./dist/server/app.js  -w dist/server/**/*.*",
     "dev:client": "webpack-dev-server --mode development",
     "build:server": "gulp build:server",
-    "build:client": "webpack --mode production"
+    "build:client": "webpack --mode production",
+    "test": "echo test"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
