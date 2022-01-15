@@ -26,7 +26,7 @@
     "node-fetch": "^2.6.0",
     "rollup": "^1.16.2",
     "rollup-plugin-babel": "^4.3.3",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "swig": "^1.4.2",
     "swig-templates": "^2.0.3",
     "webpack": "^4.35.0",
